@@ -50,10 +50,7 @@ def private_panel(_):
                 text=_["S_B_11"],
                 callback_data="about_page"
             ),
-            InlineKeyboardButton(
-                text=_["S_B_12"],
-                callback_data="owner_page"
-            )
+            InlineKeyboardButton(text=_["S_B_7"], url=f"https://t.me/StudionSCS")
         ],
         [
             InlineKeyboardButton(text=_["S_B_5"], user_id=config.OWNER_ID),
@@ -69,6 +66,7 @@ def about_panel(_):
         [
             InlineKeyboardButton(text=_["S_B_6"], url=config.SUPPORT_CHANNEL),
             InlineKeyboardButton(text=_["S_B_2"], url=config.SUPPORT_GROUP),
+            InlineKeyboardButton(text=_["S_B_7"], url=f"https://t.me/StudionSCS"),
         ],
         [
             InlineKeyboardButton(text=_["BACK_BUTTON"], callback_data="settingsback_helper")
@@ -79,11 +77,9 @@ def about_panel(_):
 def owner_panel(_):
     buttons = [
         [
-            InlineKeyboardButton(text=_["S_H_1"], url=config.INSTAGRAM),
-            InlineKeyboardButton(text=_["S_H_2"], url=config.YOUTUBE),
-        ],
-        [
-            InlineKeyboardButton(text=_["S_H_4"], url=config.DONATE),
+            InlineKeyboardButton(text=_["S_H_1"], url=config.SUPPORT_CHANNEL),
+            InlineKeyboardButton(text=_["S_H_2"], url=config.SUPPORT_GROUP),
+            InlineKeyboardButton(text=_["S_B_7"], url=f"https://t.me/StudionSCS")
         ],
         [
             InlineKeyboardButton(text=_["BACK_BUTTON"], callback_data="settingsback_helper")
