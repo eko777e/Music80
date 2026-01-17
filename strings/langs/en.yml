@@ -1,4 +1,4 @@
-Name : "🇦🇿 Azərbaycan"
+name : "🇦🇿 Azərbaycan"
 
 general_1 : "İstifadəçinin mesajına cavab verin və ya istifadəçi adı / ID-sini qeyd edin."
 general_2 : "Sorğunuzu emal edərkən xəta baş verdi.\n\nXəta növü : {0}"
@@ -339,4 +339,5 @@ gban_9 : "» {0} üzərindən qlobal blok götürüldü.\n\n{1} çatda blokdan �
 gban_10 : "» Heç kim qlobal blok edilməyib."
 gban_11 : "» Qlobal bloklananlar siyahısı gətirilir..."
 gban_12 : "🙂 <b>Qlobal bloklananlar :</b>\n\n"
+
 
