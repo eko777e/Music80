@@ -193,7 +193,7 @@ S_B_12 : "👤 Profil"
 E_X_1 : "🔐 Mənbə"
 E_X_2 : "🤖 Bot statusu"
 
-H_B_1 : "🔧 Admin"
+H_B_1 : "Admin"
 H_B_2 : "Səlahiyyət"
 H_B_3 : "Yayım"
 H_B_4 : "Qara Siyahı Çat"
@@ -339,3 +339,4 @@ gban_9 : "» {0} üzərindən qlobal blok götürüldü.\n\n{1} çatda blokdan �
 gban_10 : "» Heç kim qlobal blok edilməyib."
 gban_11 : "» Qlobal bloklananlar siyahısı gətirilir..."
 gban_12 : "🙂 <b>Qlobal bloklananlar :</b>\n\n"
+
