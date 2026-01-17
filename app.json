@@ -14,42 +14,42 @@
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "29448785",
+      "value": "27522024",
       "required": true
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "599574f6aff0a09ebb76305b58e7e9c2",
+      "value": "8931b9c53bca83b39990662fa934be54",
       "required": true
     },
     "BOT_TOKEN": {
       "description": "A Bot's token from Botfather",
-      "value": "",
+      "value": "7637744073:AAENuPojMeYWh3xCXQ2F9G08B19vnh-OMmw",
       "required": true
     },
     "MONGO_DB_URI": {
       "description": "Get a mongodb url from https://cloud.mongodb.com.",
-      "value": "mongodb+srv://pusers:nycreation@nycreation.pd4klp1.mongodb.net/?retryWrites=true&w=majority&appName=NYCREATION",
+      "value": "mongodb+srv://agautevdragitevsvh:pJSptT6jE0pcw9a4@cluster0.de4uc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
       "required": true
     },
     "OWNER_ID": {
       "description": "The user id of user whom you would like to add as OWNER.",
-      "value": "7574330905",
+      "value": "7426096650",
       "required": true
     },
     "BOT_USERNAME": {
       "description": "The username of your bot (without @)",
-      "value": "ShrutixMusicBot",
+      "value": "RoseXMusicRobot",
       "required": true
     },
     "UPSTREAM_REPO": {
       "description": "URL of your GitHub repository",
-      "value": "https://github.com/NoxxOP/ShrutiMusic",
+      "value": "https://github.com/eko777e/Music80",
       "required": false
     },
     "STRING_SESSION": {
       "description": "A Pyrogram v2 String Session from Replit.",
-      "value": "",
+      "value": "AgD4KYsAkJJvcP4-sOT3q9xN5RTpXiYgljl6t47czYMZ8e-1_MdEOYSVEZx8JVuB3DjBK9iifPzE6hn70cBm0vHarZLswCZlWV6KhnreE3gZyXQ_RN0C_zz5DoBuarX5aSJuYkojO44i34u4d7wo4ls_ddhROC5AJGjsi7jemcwwLcL09pUyttUZvwh_u8hjy6QADlAB05KwgsEtGMgh9aHKSI2_fr6tL04ZdjYfm3SGznS8rQyt9la8Puvb1YD33R2Vmi1Za48ihXJNbT19pJRu6FdRCPSoMQZRySY_XNMpzM0ei3mNXSIhUbfZjnSrlsvPwLxNJrimohmQrT3kFc4b2XMWJgAAAAHyX9m-AA",
       "required": true
     },
     "GIT_TOKEN": {
@@ -59,52 +59,52 @@
     },
     "HEROKU_API_KEY": {
       "description": "Your Heroku account's API key",
-      "value": "",
+      "value": "HRKU-AAdPH7_nWkFVf8RyVBkkCjtONJc7sbRbCacmP7eUTOcA_____wOZSRzZHeuk",
       "required": false
     },
     "HEROKU_APP_NAME": {
       "description": "Your heroku app name",
-      "value": "",
+      "value": "xmurs",
       "required": false
     },
     "LOG_GROUP_ID": {
       "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Do not ever try to put channel ID here.",
-      "value": "",
+      "value": "-1002827565646",
       "required": true
     },
     "SUPPORT_GROUP": {
       "description": "Your support group link",
-      "value": "https://t.me/ShrutiBotsupport",
+      "value": "https://t.me/RoseXSupp",
       "required": false
     },
     "SUPPORT_CHANNEL": {
       "description": "Your support channel link",
-      "value": "https://t.me/ShrutiBots",
+      "value": "https://t.me/RoseRobotlar",
       "required": false
     },
     "INSTAGRAM": {
       "description": "Your Instagram profile link or Any Link",
-      "value": "https://instagram.com/yaduwanshi_nand",
+      "value": "https://t.me/studionscs",
       "required": false
     },
     "YOUTUBE": {
       "description": "Your YouTube channel link or Any Link",
-      "value": "https://youtube.com/@NandEditz",
+      "value": "https://t.me/studionscs",
       "required": false
     },
     "GITHUB": {
       "description": "Your GitHub profile link or Any Link",
-      "value": "https://github.com/NoxxOP",
+      "value": "https://t.me/studionscs",
       "required": false
     },
     "DONATE": {
       "description": "Link where people can support/donate or Any Link",
-      "value": "https://t.me/ShrutiBots/91",
+      "value": "https://t.me/studionscs",
       "required": false
     },
     "START_IMG_URL": {
       "description": "Image that appears with the /start command",
-      "value": "https://graph.org/file/e054e63251ef2dc5729dd-6f719a9ecc59862631.png",
+      "value": "https://files.catbox.moe/rsgzku.jpg",
       "required": false
     }
   },
